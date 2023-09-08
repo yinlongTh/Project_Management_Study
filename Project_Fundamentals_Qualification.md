@@ -98,8 +98,11 @@ Hybrid Approach
 ![image](https://github.com/yinlongTh/Project_Management_Study/assets/108507768/4e51e806-77f7-4f0f-8cdd-9d61b591e39a)
 
 ### 6. Project management plan
+Goals :
+- Define "Deployment Baseline"
+- Diff of Deployment baseline in iterative and linear Project Approach
 <pre>
-  
+  Deployment Baseline is planning how to execute
 </pre>
 
 
