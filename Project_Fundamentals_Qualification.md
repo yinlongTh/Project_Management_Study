@@ -120,14 +120,32 @@ Goals :
 ## Planning for Success
 ### Stakeholder Engagement
 - Internal, External
+<pre>
+  Importance of managing stakeholder
+  - Improved communications planning
+  - Ensuring a productive team is formed
+  - Enabling effective engagement actions to be initiated
+  - Increased likelihood of project being accepted
+</pre>
 
 ### Communication
 
 
 ### Risk Management
+Risk management process
+<pre>
+  - Initiate
+  - Indentification
+  - Analysis
+  - Response
+  - Closure
 
+  Risk vs Issue
+</pre>
 
 ### Quality Management
+Manage Quality of <strong>Projectmanagement</strong> and the <strong>outputs of proj</strong>
+![image](https://github.com/yinlongTh/Project_Management_Study/assets/108507768/06bbaeac-f0de-4589-8e4c-0ec4a96982fa)
 
 
 ### Scope Management
