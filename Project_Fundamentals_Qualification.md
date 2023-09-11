@@ -28,9 +28,9 @@ Goals :
 - Differences between "Project" and "Business-as-usual (BAU)"
 - Define "PM"
 - Understand "Project, programme and portfolio management"
-<br>
+  
 ![image](https://github.com/yinlongTh/Project_Management_Study/assets/108507768/46445059-740d-46cc-a922-d91ab1d2c141)
-<br>
+
 ![image](https://github.com/yinlongTh/Project_Management_Study/assets/108507768/dd46205f-ce0a-44ae-98e5-a8d308874471)
 
 
@@ -86,7 +86,7 @@ Goals:
 
   Iterations are applied when we have "Goals" but no clear "means of achieving"
   But rapid deployment of partial solutions gives back fast feedback
-<\pre>
+</pre>
 
 ![image](https://github.com/yinlongTh/Project_Management_Study/assets/108507768/937a6ad8-2953-4957-9ce0-099a1e02086a)  
 
@@ -94,7 +94,8 @@ Goals:
 Hybrid Approach
     Adding iterative elements to ‘predictive’ projects can enhance deployment in stages, support the generation of insights, 
     underpin the realisation of an early benefit stream and validate some of the ideas much earlier in the cycle.
-  </pre>
+</pre>
+
 ![image](https://github.com/yinlongTh/Project_Management_Study/assets/108507768/4e51e806-77f7-4f0f-8cdd-9d61b591e39a)
 
 ### 6. Project management plan
@@ -102,7 +103,59 @@ Goals :
 - Define "Deployment Baseline"
 - Diff of Deployment baseline in iterative and linear Project Approach
 <pre>
-  Deployment Baseline is planning how to execute
+"Deployment Baseline is planning how to execute"
+
+  PMP : "Contract" between PM and Sponsor
+  PMP should answer 
+  - why? : Business case building
+  - what? : Defining Scope
+  - when? : Timeline up
+  - who? : Responsibilities and Rporting lines
+  - where? : Location and Site condition
+  - how? : How much, Strategy
+  of the project
 </pre>
+
+
+## Planning for Success
+### Stakeholder Engagement
+- Internal, External
+
+### Communication
+
+
+### Risk Management
+
+
+### Quality Management
+
+
+### Scope Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
